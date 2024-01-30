@@ -16,3 +16,8 @@ This is a google spreadsheet with five columns:
 
 ## The script 
 The script psychty/time_tracker/time_tracker.R reads the spreadsheet and calculates on a weekly basis the number of hours worked, and the difference between usual contracted hours and some assumptions on lunch breaks etc.
+
+## Outputs
+I am beginning to build some figures to understand the patterns of working. This includes the days of the weeks I tend to do the most extra hours (beyond 7.4) and also the time of day I log off for the final time.
+
+TODO create a single page infographic (landscape) showing what is happening this week and to date in terms of how many hours I have worked, how much TOIL I am owed etc.
